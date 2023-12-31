@@ -1,0 +1,5 @@
+libraries
+.DS_Store
+.idea
+./target
+app
